@@ -1,2 +1,12 @@
-20240206	18:28:18	808e905d-0df5-4b23-9f5c-8caf55ee02e1	GET	undefined	/
-20240206	18:28:18	e1fb6df5-0d23-45ab-bda7-22a252c57015	GET	undefined	/css/style.css
+20240206	22:40:39	7cc02e06-4532-44c3-b1ba-f6906bdade9c	GET	undefined	/
+20240206	22:40:39	13f12b35-e613-475e-a18f-66b4f95937bb	GET	undefined	/css/style.css
+20240206	22:55:47	f8c07ada-a1cc-44e1-8962-0df2db3ba268	OPTIONS	https://www.google.com	/
+20240206	22:55:47	d8252d09-dc58-41e2-a90b-816471e138ec	GET	https://www.google.com	/
+20240206	22:58:33	6da66f21-a638-4dc0-b468-5fe788efef15	OPTIONS	https://www.google.com	/
+20240206	22:58:33	16b47d7d-de3a-44b9-a686-fe08b5179ecb	GET	https://www.google.com	/
+20240206	23:24:42	8c991814-ce51-4fc5-b618-a35825526fdd	OPTIONS	https://www.google.com	/
+20240206	23:24:42	fc920b5b-b6aa-4be1-b98e-f36f99b9f0b1	GET	https://www.google.com	/
+20240206	23:25:25	bbaea36b-26b5-436b-bb60-ee2824de6579	OPTIONS	https://www.google.com	/
+20240206	23:25:25	b6cf06e0-3bd3-40ac-86a4-9d813c26b4c4	GET	https://www.google.com	/
+20240206	23:28:05	5b8ef294-263f-43ca-aa89-f7c179f125d4	OPTIONS	https://www.google.com	/
+20240206	23:28:05	92fdd608-4edf-4782-bbf9-d4158dcb46ed	GET	https://www.google.com	/
