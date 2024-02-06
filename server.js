@@ -3,13 +3,13 @@ const path = require('path');
 const fs = require('fs');
 const fsPromises = require('fs').promises;
 
-const logEvents = require('./logEvents');
+const logEvents = require('./middleware/logEvents');
 const EventEmitter = require('events');
 class Emitter extends EventEmitter { };
 // initialize object 
 const myEmitter = new Emitter();
 myEmitter.on('log', (msg, fileName) => logEvents(msg, fileName));
-const PORT = process.env.PORT || 3500;
+const PORT = process.env.PORT || 2426;
 
 const serveFile = async (filePath, contentType, response) => {
     try {
