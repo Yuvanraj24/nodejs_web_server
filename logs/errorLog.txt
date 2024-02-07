@@ -1,0 +1,13 @@
+20240207	14:09:50	60264319-9c99-4a20-8b78-dc8439d93fa2	Error: Not allowed by CORS
+20240207	15:59:13	f82e0216-e998-4f98-a81a-a39b58b59272	TypeError: req.accepted is not a function
+20240207	17:40:33	a4bb72ed-b95c-4bb3-949f-7695371179aa	TypeError: req.accepted is not a function
+20240207	17:40:39	5831e6e8-3e6a-469f-a76f-88178ab86ff5	TypeError: req.accepted is not a function
+20240207	17:40:44	1f3fd5b6-1616-45e3-a895-c3d40d6df024	TypeError: req.accepted is not a function
+20240207	17:40:50	47075f66-93ca-4d79-878b-48f4efef6c3e	TypeError: req.accepted is not a function
+20240207	17:41:37	9362d35c-4080-4d13-9250-829786e5b5d2	TypeError: req.accepted is not a function
+20240207	18:13:09	c635167c-b856-43e6-9768-ffa197eeb7f5	TypeError: req.accepted is not a function
+20240207	18:15:30	0fddb57d-a116-4950-88b1-d53527ec84b7	TypeError: req.accepted is not a function
+20240207	18:15:32	f4ae4e78-a454-4782-9b28-6cfb78a881e4	TypeError: req.accepted is not a function
+20240207	18:25:19	b9151c46-c7d6-48f2-937f-24830f996d89	TypeError: req.accepted is not a function
+20240207	18:25:57	d5b60d0e-b0c0-4715-b2d4-e1ceb411b9c2	TypeError: req.accepted is not a function
+20240207	18:27:00	c1114405-a5e5-45b9-b40f-173a0c2ed1a7	TypeError: req.accepted is not a function
