@@ -20,7 +20,7 @@ const corsOptions = {
         }
     },
     optionsSuccessStatus: 200
-}
+ }
 
 app.use(cors(corsOptions))
 app.use(express.urlencoded({extended:false}))
@@ -29,11 +29,10 @@ app.use(express.static(path.join(__dirname,'./public')))
 
 app.use('/', require('./routes/root'))
 app.use('/subdir', require('./routes/subdir'))
+app.use('/employees', require('./routes/api/employees'))
 
-app.all('*', (req,res) => {
-    
+app.all('*', (req,res) => { 
     res.status(404);
-
     if(req.accepts ('html')){
         res.sendFile(path.join(__dirname,'views','404.html'));
     } else if(req.accepted('json')){
