@@ -12,10 +12,27 @@ router.route('/')
             res.json(data.employees)
         })
         .post((req,res) =>{
-            
+            res.json({
+                'firstName' : req.body.firstName,
+                'lastName' : req.body.lastName
+            })
+ })
+        .put((req,res) =>{
+            res.json({
+                'firstName' : req.body.firstName,
+                'lastName' : req.body.lastName
+            })
+ })
+        .delete((req,res) =>{
+            res.json({
+                "id" : req.body.id
+            })
         })
-        .put()
-        .delete()
+
+   router.route('/:id')
+    .get((req,res) => {
+        res.json({"id":req.params.id})
+    })     
 
 
 module.exports = router
